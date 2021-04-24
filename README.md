@@ -5,4 +5,7 @@ Codeord Chill
 
 Логин 4moon
 Пароль 2021
-Кодовое слово Chill
+Кодовое слово Chil
+
+Можете изменять код под свои нужды
+You can change the code to fit your needs
