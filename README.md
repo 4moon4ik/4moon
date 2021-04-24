@@ -9,3 +9,9 @@ Codeord Chill
 
 Можете изменять код под свои нужды
 You can change the code to fit your needs
+
+index.html - это сайт на русском языке
+index.html - is a site in Russian
+
+English.html - это сайт на Английском
+English.html - is a site in English
