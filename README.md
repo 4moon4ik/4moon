@@ -1,7 +1,7 @@
 # 4moon
 Login 4moon
 Password 2021
-Codeord Chill
+Codeword Chill
 
 Логин 4moon
 Пароль 2021
